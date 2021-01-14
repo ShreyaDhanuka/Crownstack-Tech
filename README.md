@@ -1,5 +1,7 @@
 # Crownstack-Tech
 
+you can run the code by :- nodemon start
+
 POST : /users/signup: 
      a)username b)password 
      :- userId and cartId will be generated
